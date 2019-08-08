@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 print("Hello world");
 print("Hello everybody");
 print("Hello");
-Hello;
-Hello;
+print("Hello my dear friend");
+print("glad to see you");
